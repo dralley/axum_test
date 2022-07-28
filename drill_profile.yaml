@@ -1,0 +1,26 @@
+
+concurrency: 4
+base: 'http://localhost:3779'
+iterations: 1000
+rampup: 2
+
+plan:
+  - name: Fetch repo_file
+    request:
+      url: /repos/mirror/{{ item.platform }}/{{ item.repo }}/{{ item.arch }}/{{ item.snapshot }}/f35-updates-released-aarch64.repo
+    with_items_from_csv:
+      file_name: ./test_data.csv
+
+  - name: Fetch repomd
+    request:
+      url: /repos/mirror/{{ item.platform }}/{{ item.repo }}/{{ item.arch }}/{{ item.snapshot }}/repodata/repomd.xml
+    with_items_from_csv:
+      file_name: ./test_data.csv
+
+  # - name: Fetch package redirect
+  #   request:
+  #     url: /repos/mirror/{{ item.platform }}/{{ item.repo }}/{{ item.arch }}/{{ item.snapshot }}/Packages/
+  #   with_items_from_csv:
+  #     file_name: ./test_data.csv
+
+

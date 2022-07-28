@@ -1,0 +1,133 @@
+https://cdn.redhat.com/content/dist/rhel/server/7/7Server/x86_64/os/
+-------------------------
+Packages number => 33001
+Packages size => 61.01 GB
+Metadata size => 2.26 GB
+
+https://cdn.redhat.com/content/dist/rhel8/8/x86_64/baseos/os/
+-------------------------
+Packages number => 10865
+Packages size => 18.86 GB
+Metadata size => 1.69 GB
+
+https://cdn.redhat.com/content/dist/rhel8/8/x86_64/appstream/os/
+-------------------------
+Packages number => 25256
+Packages size => 74.01 GB
+Metadata size => 430.11 MB
+
+https://cdn.redhat.com/content/dist/rhel9/9/x86_64/baseos/os/
+-------------------------
+Packages number => 1174
+Packages size => 984.9 MB
+Metadata size => 12 MB
+
+https://cdn.redhat.com/content/dist/rhel9/9/x86_64/appstream/os/
+-------------------------
+Packages number => 5397
+Packages size => 8.6 GB
+Metadata size => 29.52 MB
+
+http://mirror.centos.org/centos/8-stream/BaseOS/x86_64/os/
+-------------------------
+Packages number => 9755
+Packages size => 13.55 GB
+Metadata size => 59.21 MB
+
+http://mirror.centos.org/centos/8-stream/AppStream/x86_64/os/
+-------------------------
+Packages number => 18596
+Packages size => 48.86 GB
+Metadata size => 47.04 MB
+
+http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/
+-------------------------
+Packages number => 3420
+Packages size => 4.11 GB
+Metadata size => 15.95 MB
+
+http://mirror.stream.centos.org/9-stream/AppStream/x86_64/os/
+-------------------------
+Packages number => 11962
+Packages size => 22.58 GB
+Metadata size => 31.06 MB
+
+https://dl.fedoraproject.org/pub/fedora/linux/releases/34/Everything/x86_64/os/
+-------------------------
+Packages number => 63586
+Packages size => 83.6 GB
+Metadata size => 243.51 MB
+
+https://dl.fedoraproject.org/pub/fedora/linux/releases/34/Modular/x86_64/os/
+-------------------------
+Packages number => 2050
+Packages size => 2.32 GB
+Metadata size => 12.78 MB
+
+https://dl.fedoraproject.org/pub/fedora/linux/updates/34/Everything/x86_64/
+-------------------------
+Packages number => 30081
+Packages size => 51.31 GB
+Metadata size => 132 MB
+
+https://dl.fedoraproject.org/pub/fedora/linux/updates/34/Modular/x86_64/
+-------------------------
+Packages number => 2315
+Packages size => 3.13 GB
+Metadata size => 10.3 MB
+
+https://dl.fedoraproject.org/pub/fedora/linux/releases/35/Everything/x86_64/os/
+-------------------------
+Packages number => 65732
+Packages size => 87.07 GB
+Metadata size => 252.93 MB
+
+https://dl.fedoraproject.org/pub/fedora/linux/releases/35/Modular/x86_64/os/
+-------------------------
+Packages number => 1283
+Packages size => 2.07 GB
+Metadata size => 8.69 MB
+
+https://dl.fedoraproject.org/pub/fedora/linux/updates/35/Everything/x86_64/
+-------------------------
+Packages number => 27862
+Packages size => 44.68 GB
+Metadata size => 117 MB
+
+https://dl.fedoraproject.org/pub/fedora/linux/updates/35/Modular/x86_64/
+-------------------------
+Packages number => 1691
+Packages size => 2.49 GB
+Metadata size => 7.15 MB
+
+https://dl.fedoraproject.org/pub/fedora/linux/releases/36/Everything/x86_64/os/
+-------------------------
+Packages number => 67992
+Packages size => 94.45 GB
+Metadata size => 261.21 MB
+
+https://dl.fedoraproject.org/pub/fedora/linux/releases/36/Modular/x86_64/os/
+-------------------------
+Packages number => 825
+Packages size => 1.71 GB
+Metadata size => 6.31 MB
+
+https://dl.fedoraproject.org/pub/fedora/linux/updates/36/Everything/x86_64/
+-------------------------
+Packages number => 10508
+Packages size => 28.39 GB
+Metadata size => 62.97 MB
+
+https://dl.fedoraproject.org/pub/fedora/linux/updates/36/Modular/x86_64/
+-------------------------
+Packages number => 1141
+Packages size => 1.87 GB
+Metadata size => 4.95 MB
+
+Totals
+======
+Packages num (deduplicated) => 374044
+Packages num => 394492
+Packages size => 655.66 GB
+Packages size (deduplicated) => 620.32 GB
+Metadata size => 5.7 GB

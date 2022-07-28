@@ -1,0 +1,918 @@
+Failed repo download https://packages.cloud.google.com/yum/repos/google-compute-engine-el9-x86_64-stable
+Failed repo download https://packages.cloud.google.com/yum/repos/cloud-sdk-el9-x86_64
+Failed repo download https://packages.cloud.google.com/yum/repos/google-compute-engine-el8-x86_64-stable
+Failed repo download https://packages.cloud.google.com/yum/repos/cloud-sdk-el8-x86_64
+
+el8-s390x-appstream-r8.2.json
+-------------------------
+Packages number => 3866
+Packages size => 4.4 GB
+Metadata size => 5.83 MB
+
+el9-x86_64-saphana-n9.0.json
+-------------------------
+Packages number => 7
+Packages size => 607.37 KB
+Metadata size => 14.79 KB
+
+el9-aarch64-baseos-n9.1.json
+-------------------------
+Packages number => 867
+Packages size => 834 MB
+Metadata size => 2.43 MB
+
+el8-ppc64le-baseos-r8.4.json
+-------------------------
+Packages number => 1279
+Packages size => 993.66 MB
+Metadata size => 2.76 MB
+
+f35-x86_64-fedora.json
+-------------------------
+Packages number => 65732
+Packages size => 87.07 GB
+Metadata size => 252.93 MB
+
+el8-ppc64le-baseos-n8.7.json
+-------------------------
+Packages number => 1283
+Packages size => 1.14 GB
+Metadata size => 3.52 MB
+
+el8-aarch64-crb-n8.6.json
+-------------------------
+Packages number => 1507
+Packages size => 5.28 GB
+Metadata size => 2.13 MB
+
+cs8-x86_64-powertools.json
+-------------------------
+Packages number => 4429
+Packages size => 32.28 GB
+Metadata size => 11.44 MB
+
+el9-aarch64-rhui-4.json
+-------------------------
+Packages number => 5
+Packages size => 130.97 KB
+Metadata size => 5.32 KB
+
+el8-aarch64-crb-n8.7.json
+-------------------------
+Packages number => 1514
+Packages size => 5.28 GB
+Metadata size => 2.17 MB
+
+el7-x86_64-server-sap-r7.9.json
+-------------------------
+Packages number => 16
+Packages size => 3.13 MB
+Metadata size => 21.7 KB
+
+el7-x86_64-rhui-azure.json
+-------------------------
+Packages number => 1
+Packages size => 14.35 KB
+Metadata size => 5.17 KB
+
+el8-s390x-baseos-n8.7.json
+-------------------------
+Packages number => 1262
+Packages size => 1.12 GB
+Metadata size => 3.51 MB
+
+el8-s390x-appstream-r8.3.json
+-------------------------
+Packages number => 4442
+Packages size => 5.25 GB
+Metadata size => 6.76 MB
+
+f34-x86_64-updates-released-modular.json
+-------------------------
+Packages number => 2315
+Packages size => 3.13 GB
+Metadata size => 10.3 MB
+
+el8-x86_64-baseos-n8.7.json
+-------------------------
+Packages number => 1720
+Packages size => 1.37 GB
+Metadata size => 3.97 MB
+
+el7-x86_64-server-optional-r7.9.json
+-------------------------
+Packages number => 4688
+Packages size => 5.29 GB
+Metadata size => 5.96 MB
+
+cs9-ppc64le-crb.json
+-------------------------
+Packages number => 965
+Packages size => 2.43 GB
+Metadata size => 2.06 MB
+
+cs9-ppc64le-appstream.json
+-------------------------
+Packages number => 4052
+Packages size => 5.28 GB
+Metadata size => 6.04 MB
+
+cs9-x86_64-rt.json
+-------------------------
+Packages number => 14
+Packages size => 286.94 MB
+Metadata size => 1.33 MB
+
+el8-s390x-appstream-r8.4.json
+-------------------------
+Packages number => 4563
+Packages size => 5.59 GB
+Metadata size => 7.18 MB
+
+cs9-s390x-appstream.json
+-------------------------
+Packages number => 4023
+Packages size => 5.15 GB
+Metadata size => 6.07 MB
+
+el8-x86_64-rhui-3.json
+-------------------------
+Packages number => 4
+Packages size => 159.9 KB
+Metadata size => 14.64 KB
+
+el8-x86_64-sap-n8.6.json
+-------------------------
+Packages number => 8
+Packages size => 2.54 MB
+Metadata size => 14.97 KB
+
+f34-x86_64-fedora.json
+-------------------------
+Packages number => 63586
+Packages size => 83.6 GB
+Metadata size => 243.51 MB
+
+el8-x86_64-appstream-r8.2.json
+-------------------------
+Packages number => 5359
+Packages size => 6.7 GB
+Metadata size => 7.48 MB
+
+el9-s390x-appstream-n9.1.json
+-------------------------
+Packages number => 4027
+Packages size => 5.14 GB
+Metadata size => 6.61 MB
+
+el7-x86_64-server-r7.9.json
+-------------------------
+Packages number => 5230
+Packages size => 3.81 GB
+Metadata size => 7.27 MB
+
+el8-aarch64-appstream-n8.7.json
+-------------------------
+Packages number => 5253
+Packages size => 6.97 GB
+Metadata size => 8.38 MB
+
+el8-aarch64-rhui-3.json
+-------------------------
+Packages number => 4
+Packages size => 159.9 KB
+Metadata size => 14.64 KB
+
+f35-aarch64-fedora-modular.json
+-------------------------
+Packages number => 1263
+Packages size => 2.36 GB
+Metadata size => 8.46 MB
+
+f35-x86_64-updates-released.json
+-------------------------
+Packages number => 27862
+Packages size => 44.68 GB
+Metadata size => 117 MB
+
+f34-x86_64-fedora-modular.json
+-------------------------
+Packages number => 2050
+Packages size => 2.32 GB
+Metadata size => 12.78 MB
+
+el7-x86_64-server-dotnet-r1.1.json
+-------------------------
+Packages number => 18
+Packages size => 94.65 MB
+Metadata size => 193.03 KB
+
+el8-x86_64-ha-n8.7.json
+-------------------------
+Packages number => 61
+Packages size => 88.01 MB
+Metadata size => 638.4 KB
+
+el9-x86_64-appstream-n9.0.json
+-------------------------
+Packages number => 5272
+Packages size => 6.69 GB
+Metadata size => 7.38 MB
+
+el8-ppc64le-baseos-r8.5.json
+-------------------------
+Packages number => 1276
+Packages size => 1.06 GB
+Metadata size => 2.79 MB
+
+cs9-x86_64-crb.json
+-------------------------
+Packages number => 1505
+Packages size => 5.77 GB
+Metadata size => 2.37 MB
+
+el8-x86_64-baseos-r8.5.json
+-------------------------
+Packages number => 1708
+Packages size => 1.29 GB
+Metadata size => 3.23 MB
+
+cs9-ppc64le-baseos.json
+-------------------------
+Packages number => 873
+Packages size => 818.16 MB
+Metadata size => 2.11 MB
+
+el8-ppc64le-appstream-r8.2.json
+-------------------------
+Packages number => 4270
+Packages size => 5.46 GB
+Metadata size => 6.52 MB
+
+el9-aarch64-crb-n9.0.json
+-------------------------
+Packages number => 931
+Packages size => 5.31 GB
+Metadata size => 1.76 MB
+
+el8-ppc64le-baseos-r8.3.json
+-------------------------
+Packages number => 1275
+Packages size => 921.84 MB
+Metadata size => 2.99 MB
+
+el8-s390x-appstream-n8.6.json
+-------------------------
+Packages number => 5121
+Packages size => 6.57 GB
+Metadata size => 8.08 MB
+
+el8-x86_64-baseos-n8.6.json
+-------------------------
+Packages number => 1714
+Packages size => 1.36 GB
+Metadata size => 3.52 MB
+
+cs9-aarch64-appstream.json
+-------------------------
+Packages number => 4078
+Packages size => 5.35 GB
+Metadata size => 6.03 MB
+
+el7-x86_64-eng-rhel.json
+-------------------------
+Packages number => 1140
+Packages size => 583.86 MB
+Metadata size => 3.64 MB
+
+el8-x86_64-appstream-n8.7.json
+-------------------------
+Packages number => 6674
+Packages size => 9.42 GB
+Metadata size => 9.74 MB
+
+el9-x86_64-sap-n9.0.json
+-------------------------
+Packages number => 8
+Packages size => 1.06 MB
+Metadata size => 14.69 KB
+
+el8-aarch64-baseos-r8.3.json
+-------------------------
+Packages number => 1267
+Packages size => 905.84 MB
+Metadata size => 2.91 MB
+
+el9-aarch64-baseos-n9.0.json
+-------------------------
+Packages number => 867
+Packages size => 796.1 MB
+Metadata size => 1.95 MB
+
+el8-x86_64-baseos-r8.2.json
+-------------------------
+Packages number => 1681
+Packages size => 1.06 GB
+Metadata size => 3.05 MB
+
+el8-x86_64-sap-n8.7.json
+-------------------------
+Packages number => 8
+Packages size => 2.54 MB
+Metadata size => 15 KB
+
+el9-x86_64-sap-n9.1.json
+-------------------------
+Packages number => 8
+Packages size => 1.06 MB
+Metadata size => 14.67 KB
+
+el9-s390x-appstream-n9.0.json
+-------------------------
+Packages number => 4024
+Packages size => 5.07 GB
+Metadata size => 6.27 MB
+
+el9-x86_64-saphana-n9.1.json
+-------------------------
+Packages number => 7
+Packages size => 607.37 KB
+Metadata size => 14.8 KB
+
+cs8-x86_64-baseos.json
+-------------------------
+Packages number => 9755
+Packages size => 13.55 GB
+Metadata size => 59.21 MB
+
+cs9-aarch64-baseos.json
+-------------------------
+Packages number => 868
+Packages size => 830.9 MB
+Metadata size => 2.1 MB
+
+el8-aarch64-appstream-r8.5.json
+-------------------------
+Packages number => 4783
+Packages size => 6.43 GB
+Metadata size => 7.79 MB
+
+f35-x86_64-updates-released-modular.json
+-------------------------
+Packages number => 1691
+Packages size => 2.49 GB
+Metadata size => 7.15 MB
+
+f35-aarch64-fedora.json
+-------------------------
+Packages number => 56722
+Packages size => 77.24 GB
+Metadata size => 232.53 MB
+
+el8-aarch64-baseos-r8.4.json
+-------------------------
+Packages number => 1271
+Packages size => 978.77 MB
+Metadata size => 2.68 MB
+
+el9-ppc64le-baseos-n9.1.json
+-------------------------
+Packages number => 872
+Packages size => 820.8 MB
+Metadata size => 2.45 MB
+
+el8-x86_64-crb-n8.6.json
+-------------------------
+Packages number => 2235
+Packages size => 7.55 GB
+Metadata size => 2.79 MB
+
+el8-aarch64-baseos-r8.2.json
+-------------------------
+Packages number => 1258
+Packages size => 825.64 MB
+Metadata size => 2.58 MB
+
+f36-x86_64-rawhide.json
+-------------------------
+Packages number => 68320
+Packages size => 94.52 GB
+Metadata size => 236.03 MB
+
+f34-aarch64-fedora.json
+-------------------------
+Packages number => 54689
+Packages size => 74 GB
+Metadata size => 223.25 MB
+
+el8-s390x-appstream-r8.5.json
+-------------------------
+Packages number => 4706
+Packages size => 6.22 GB
+Metadata size => 7.68 MB
+
+el8-x86_64-crb-n8.7.json
+-------------------------
+Packages number => 2246
+Packages size => 7.58 GB
+Metadata size => 2.83 MB
+
+f36-aarch64-rawhide-modular.json
+-------------------------
+Packages number => 1143
+Packages size => 1.88 GB
+Metadata size => 6.81 MB
+
+cs8-ppc64le-baseos.json
+-------------------------
+Packages number => 8297
+Packages size => 11.57 GB
+Metadata size => 50.22 MB
+
+cs9-x86_64-appstream.json
+-------------------------
+Packages number => 5274
+Packages size => 6.79 GB
+Metadata size => 7.1 MB
+
+el9-x86_64-baseos-n9.0.json
+-------------------------
+Packages number => 1131
+Packages size => 974 MB
+Metadata size => 2.33 MB
+
+el9-aarch64-appstream-n9.0.json
+-------------------------
+Packages number => 4079
+Packages size => 5.27 GB
+Metadata size => 6.3 MB
+
+f34-aarch64-updates-released-modular.json
+-------------------------
+Packages number => 2307
+Packages size => 3.33 GB
+Metadata size => 10.06 MB
+
+cs8-ppc64le-powertools.json
+-------------------------
+Packages number => 2826
+Packages size => 15.48 GB
+Metadata size => 9.03 MB
+
+el9-x86_64-crb-n9.0.json
+-------------------------
+Packages number => 1447
+Packages size => 5.71 GB
+Metadata size => 2.2 MB
+
+el8-aarch64-baseos-n8.6.json
+-------------------------
+Packages number => 1273
+Packages size => 1.12 GB
+Metadata size => 3 MB
+
+cs9-s390x-baseos.json
+-------------------------
+Packages number => 844
+Packages size => 770.27 MB
+Metadata size => 1.98 MB
+
+el8-s390x-baseos-r8.4.json
+-------------------------
+Packages number => 1259
+Packages size => 970.82 MB
+Metadata size => 2.6 MB
+
+el7-x86_64-rhui-3.json
+-------------------------
+Packages number => 12
+Packages size => 324.89 KB
+Metadata size => 23.61 KB
+
+el8-x86_64-baseos-r8.4.json
+-------------------------
+Packages number => 1709
+Packages size => 1.22 GB
+Metadata size => 3.18 MB
+
+el9-aarch64-appstream-n9.1.json
+-------------------------
+Packages number => 4080
+Packages size => 5.33 GB
+Metadata size => 6.57 MB
+
+el9-x86_64-rhui-azure.json
+-------------------------
+Packages number => 1
+Packages size => 13.74 KB
+Metadata size => 5.11 KB
+
+el9-x86_64-baseos-n9.1.json
+-------------------------
+Packages number => 1132
+Packages size => 1.01 GB
+Metadata size => 2.79 MB
+
+el8-x86_64-baseos-r8.3.json
+-------------------------
+Packages number => 1696
+Packages size => 1.14 GB
+Metadata size => 3.38 MB
+
+cs8-aarch64-powertools.json
+-------------------------
+Packages number => 2833
+Packages size => 20.06 GB
+Metadata size => 8.05 MB
+
+el8-ppc64le-appstream-r8.5.json
+-------------------------
+Packages number => 4969
+Packages size => 6.9 GB
+Metadata size => 8.01 MB
+
+el8-s390x-baseos-r8.5.json
+-------------------------
+Packages number => 1255
+Packages size => 1.04 GB
+Metadata size => 2.63 MB
+
+el8-ppc64le-appstream-r8.4.json
+-------------------------
+Packages number => 4834
+Packages size => 6.31 GB
+Metadata size => 7.56 MB
+
+el8-s390x-baseos-r8.3.json
+-------------------------
+Packages number => 1253
+Packages size => 883.38 MB
+Metadata size => 2.89 MB
+
+f35-aarch64-updates-released-modular.json
+-------------------------
+Packages number => 1683
+Packages size => 2.71 GB
+Metadata size => 6.91 MB
+
+cs9-s390x-crb.json
+-------------------------
+Packages number => 946
+Packages size => 2.45 GB
+Metadata size => 1.83 MB
+
+el8-x86_64-rt-n8.6.json
+-------------------------
+Packages number => 14
+Packages size => 350.21 MB
+Metadata size => 1.06 MB
+
+el8-ppc64le-appstream-r8.3.json
+-------------------------
+Packages number => 4667
+Packages size => 6.05 GB
+Metadata size => 7.11 MB
+
+el8-x86_64-ansible-2.json
+-------------------------
+Packages number => 58
+Packages size => 560.37 MB
+Metadata size => 5.14 MB
+
+el8-x86_64-appstream-r8.4.json
+-------------------------
+Packages number => 6036
+Packages size => 8.13 GB
+Metadata size => 8.66 MB
+
+el8-s390x-appstream-n8.7.json
+-------------------------
+Packages number => 5175
+Packages size => 6.72 GB
+Metadata size => 8.25 MB
+
+f36-aarch64-rawhide.json
+-------------------------
+Packages number => 58931
+Packages size => 83.95 GB
+Metadata size => 215.88 MB
+
+el8-ppc64le-appstream-n8.6.json
+-------------------------
+Packages number => 5339
+Packages size => 7.17 GB
+Metadata size => 8.36 MB
+
+el9-aarch64-crb-n9.1.json
+-------------------------
+Packages number => 977
+Packages size => 5.35 GB
+Metadata size => 1.93 MB
+
+el8-x86_64-appstream-n8.6.json
+-------------------------
+Packages number => 6609
+Packages size => 9.19 GB
+Metadata size => 9.55 MB
+
+el8-x86_64-rt-n8.7.json
+-------------------------
+Packages number => 14
+Packages size => 352.55 MB
+Metadata size => 1.36 MB
+
+el8-ppc64le-baseos-n8.6.json
+-------------------------
+Packages number => 1280
+Packages size => 1.13 GB
+Metadata size => 3.09 MB
+
+el7-x86_64-server-extras-r7.9.json
+-------------------------
+Packages number => 119
+Packages size => 207.03 MB
+Metadata size => 416.96 KB
+
+cs9-x86_64-baseos.json
+-------------------------
+Packages number => 1133
+Packages size => 1.01 GB
+Metadata size => 2.46 MB
+
+el8-aarch64-appstream-r8.3.json
+-------------------------
+Packages number => 4509
+Packages size => 5.44 GB
+Metadata size => 6.91 MB
+
+f34-x86_64-updates-released.json
+-------------------------
+Packages number => 30081
+Packages size => 51.31 GB
+Metadata size => 132 MB
+
+el9-s390x-baseos-n9.0.json
+-------------------------
+Packages number => 843
+Packages size => 719.95 MB
+Metadata size => 1.74 MB
+
+el8-s390x-baseos-n8.6.json
+-------------------------
+Packages number => 1259
+Packages size => 1.12 GB
+Metadata size => 2.98 MB
+
+el9-ppc64le-baseos-n9.0.json
+-------------------------
+Packages number => 872
+Packages size => 785.2 MB
+Metadata size => 1.99 MB
+
+f34-aarch64-updates-released.json
+-------------------------
+Packages number => 26710
+Packages size => 44.67 GB
+Metadata size => 120.2 MB
+
+el8-ppc64le-baseos-r8.2.json
+-------------------------
+Packages number => 1265
+Packages size => 841.52 MB
+Metadata size => 2.67 MB
+
+f36-x86_64-rawhide-modular.json
+-------------------------
+Packages number => 1156
+Packages size => 1.81 GB
+Metadata size => 7 MB
+
+cs8-x86_64-appstream.json
+-------------------------
+Packages number => 18596
+Packages size => 48.86 GB
+Metadata size => 47.04 MB
+
+el8-aarch64-baseos-n8.7.json
+-------------------------
+Packages number => 1276
+Packages size => 1.12 GB
+Metadata size => 3.44 MB
+
+el7-x86_64-server-rt-r7.9.json
+-------------------------
+Packages number => 15
+Packages size => 337.27 MB
+Metadata size => 1.8 MB
+
+el8-x86_64-rt-r8.2.json
+-------------------------
+Packages number => 16
+Packages size => 308.98 MB
+Metadata size => 838.68 KB
+
+el8-ppc64le-appstream-n8.7.json
+-------------------------
+Packages number => 5394
+Packages size => 7.33 GB
+Metadata size => 8.53 MB
+
+el9-x86_64-rt-n9.1.json
+-------------------------
+Packages number => 14
+Packages size => 287.41 MB
+Metadata size => 1.32 MB
+
+el8-x86_64-saphana-n8.7.json
+-------------------------
+Packages number => 7
+Packages size => 2.11 MB
+Metadata size => 15.53 KB
+
+cs8-aarch64-baseos.json
+-------------------------
+Packages number => 8259
+Packages size => 11.5 GB
+Metadata size => 48.34 MB
+
+el8-aarch64-baseos-r8.5.json
+-------------------------
+Packages number => 1269
+Packages size => 1.05 GB
+Metadata size => 2.71 MB
+
+cs8-ppc64le-appstream.json
+-------------------------
+Packages number => 15293
+Packages size => 37.8 GB
+Metadata size => 40.41 MB
+
+f34-aarch64-fedora-modular.json
+-------------------------
+Packages number => 2013
+Packages size => 2.5 GB
+Metadata size => 12.52 MB
+
+cs8-aarch64-appstream.json
+-------------------------
+Packages number => 14618
+Packages size => 35.44 GB
+Metadata size => 39.7 MB
+
+el9-x86_64-ha-n9.1.json
+-------------------------
+Packages number => 90
+Packages size => 61.82 MB
+Metadata size => 259.67 KB
+
+el8-x86_64-rt-r8.5.json
+-------------------------
+Packages number => 15
+Packages size => 383.15 MB
+Metadata size => 890.11 KB
+
+el9-x86_64-ha-n9.0.json
+-------------------------
+Packages number => 90
+Packages size => 61.74 MB
+Metadata size => 259.5 KB
+
+el8-s390x-baseos-r8.2.json
+-------------------------
+Packages number => 1245
+Packages size => 809.97 MB
+Metadata size => 2.5 MB
+
+el9-x86_64-crb-n9.1.json
+-------------------------
+Packages number => 1505
+Packages size => 5.77 GB
+Metadata size => 2.37 MB
+
+el8-x86_64-rt-r8.4.json
+-------------------------
+Packages number => 15
+Packages size => 367.33 MB
+Metadata size => 875.35 KB
+
+el8-aarch64-appstream-r8.4.json
+-------------------------
+Packages number => 4638
+Packages size => 5.69 GB
+Metadata size => 7.31 MB
+
+el9-x86_64-rt-n9.0.json
+-------------------------
+Packages number => 14
+Packages size => 282 MB
+Metadata size => 972.42 KB
+
+el8-x86_64-rt-r8.3.json
+-------------------------
+Packages number => 17
+Packages size => 338.97 MB
+Metadata size => 942.23 KB
+
+el9-x86_64-appstream-n9.1.json
+-------------------------
+Packages number => 5275
+Packages size => 6.85 GB
+Metadata size => 7.67 MB
+
+el8-aarch64-appstream-n8.6.json
+-------------------------
+Packages number => 5204
+Packages size => 6.83 GB
+Metadata size => 8.21 MB
+
+el9-s390x-baseos-n9.1.json
+-------------------------
+Packages number => 843
+Packages size => 773.18 MB
+Metadata size => 2.31 MB
+
+f35-aarch64-updates-released.json
+-------------------------
+Packages number => 24726
+Packages size => 39.63 GB
+Metadata size => 106.6 MB
+
+f35-x86_64-fedora-modular.json
+-------------------------
+Packages number => 1283
+Packages size => 2.07 GB
+Metadata size => 8.69 MB
+
+el9-ppc64le-appstream-n9.1.json
+-------------------------
+Packages number => 4055
+Packages size => 5.27 GB
+Metadata size => 6.58 MB
+
+el8-x86_64-appstream-r8.5.json
+-------------------------
+Packages number => 6220
+Packages size => 8.84 GB
+Metadata size => 9.18 MB
+
+el8-x86_64-appstream-r8.3.json
+-------------------------
+Packages number => 5802
+Packages size => 7.59 GB
+Metadata size => 8.13 MB
+
+el8-x86_64-ha-n8.6.json
+-------------------------
+Packages number => 61
+Packages size => 88.55 MB
+Metadata size => 615.4 KB
+
+el9-ppc64le-appstream-n9.0.json
+-------------------------
+Packages number => 4054
+Packages size => 5.2 GB
+Metadata size => 6.31 MB
+
+cs9-aarch64-crb.json
+-------------------------
+Packages number => 977
+Packages size => 5.35 GB
+Metadata size => 1.93 MB
+
+el8-aarch64-appstream-r8.2.json
+-------------------------
+Packages number => 4114
+Packages size => 4.92 GB
+Metadata size => 6.32 MB
+
+el9-x86_64-rhui-4.json
+-------------------------
+Packages number => 5
+Packages size => 130.97 KB
+Metadata size => 5.32 KB
+
+el8-x86_64-ha-r8.5.json
+-------------------------
+Packages number => 61
+Packages size => 68.59 MB
+Metadata size => 551.4 KB
+
+el8-x86_64-saphana-n8.6.json
+-------------------------
+Packages number => 7
+Packages size => 2.07 MB
+Metadata size => 14.17 KB
+
+el8-x86_64-rhui-azure.json
+-------------------------
+Packages number => 1
+Packages size => 14.14 KB
+Metadata size => 5.49 KB
+
+Totals
+======
+Packages num (deduplicated) => 488106
+Packages num => 826815
+Packages size => 1.27 TB
+Packages size (deduplicated) => 885.45 GB
+Metadata size => 2.71 GB

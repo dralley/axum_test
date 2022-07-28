@@ -1,0 +1,9 @@
+platform,repo,arch,snapshot
+f35,updates-released,aarch64,latest
+f35,updates-released,aarch64,20220715
+f35,updates-released,aarch64,20220201
+f35,updates-released,aarch64,20220203
+f35,updates-released,aarch64,20220324
+f35,updates-released,aarch64,20220415
+f35,updates-released,aarch64,20220504
+
